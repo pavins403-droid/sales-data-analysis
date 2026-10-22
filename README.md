@@ -28,7 +28,7 @@
 
 \- \*\*Dashboard:\*\* Sales Analysis Dashboard
 
-\- \*\*Published Dashboard:\*\* https://public.tableau.com/views/capstone\_project\_17925193115530/Dashboard1?:language=en-GB\&:sid=\&:redirect=auth\&:display\_count=n\&:origin=viz\_share\_link
+\- \*\*Published Dashboard:\*\* https://public.tableau.com/views/capstone_project_17925193115530/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 
