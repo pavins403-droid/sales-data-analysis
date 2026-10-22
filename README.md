@@ -48,7 +48,7 @@ The analysis covered 63 completed orders and recorded total revenue of ₹346,20
 
 | `README.md` | All Parts | Project overview, findings, tools, assumptions, and file index |
 
-| `sql/00\_schema\_and\_seed.sql` | Part A | Creates database tables and inserts seed data |
+| `sql/00_schema_and_seed.sql` | Part A | Creates database tables and inserts seed data |
 
 | `sql/q01.sql` | Part A | SQL analysis query 01 |
 
@@ -76,19 +76,19 @@ The analysis covered 63 completed orders and recorded total revenue of ₹346,20
 
 | `sql/q13.sql` | Part A | SQL analysis query 13 |
 
-| `sql/d1\_corrected.sql` | Part D | Corrected SQL query after AI-generated query review |
+| `sql/d1_corrected.sql` | Part D | Corrected SQL query after AI-generated query review |
 
-| `results/query\_results.md` | Part A | Recorded outputs of SQL queries |
+| `results/query_results.md` | Part A | Recorded outputs of SQL queries |
 
-| `data/orders\_enriched.csv` | Part B | Enriched order dataset |
+| `data/orders_enriched.csv` | Part B | Enriched order dataset |
 
-| `data/orders\_clean.csv` | Part B | Cleaned order dataset used for analysis |
+| `data/orders_clean.csv` | Part B | Cleaned order dataset used for analysis |
 
-| `docs/spreadsheet\_notes.md` | Part B | Spreadsheet cleaning and analysis notes |
+| `docs/spreadsheet_notes.md` | Part B | Spreadsheet cleaning and analysis notes |
 
-| `docs/dashboard\_spec.md` | Part C | Dashboard specification, KPIs, visualizations, findings, and recommendations |
+| `docs/dashboard_spec.md` | Part C | Dashboard specification, KPIs, visualizations, findings, and recommendations |
 
-| `docs/ai\_log.md` | Part D | AI prompts, identified defects, corrected query, validation, and human review |
+| `docs/ai_log.md` | Part D | AI prompts, identified defects, corrected query, validation, and human review |
 
 
 
